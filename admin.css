@@ -1,0 +1,24 @@
+#xlanguage_log_frame {
+    width: 100%;
+    height: 20em;
+    border: 1px solid gray;
+}
+
+fieldset.options legend {
+    font-weight: bold;
+    margin-left: 1.5em;
+}
+
+fieldset.options {
+    border: 1px solid gray;
+    padding: 0.2em 0.8em;
+}
+
+#contribution_box {
+    background: #eff;
+    border-color: #dee;
+}
+
+.form-table tr {
+    background: none;
+}
